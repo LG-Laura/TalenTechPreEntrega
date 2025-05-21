@@ -50,7 +50,7 @@ public class Main {
         System.out.println("Tipo de producto:");
         System.out.println("1) Ropa");
         System.out.println("2) Tecnología");
-        System.out.println("3) Comida");
+        System.out.println("3) Deco");
         int tipo = leerInt("Seleccione tipo: ");
 
         Producto producto;
